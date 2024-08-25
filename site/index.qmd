@@ -11,23 +11,106 @@ format:
 :::{.cr-section}
 
 :::{focus-on="cr-img1"}
-
 :::{.inline-logo}
 ![](images/logo-green-presents.png)
 :::
-# Who's ruining our city's architecture?
+# What's ruining our city's architecture? (And how we can fix it)
 
 Walking around Melbourne, you might have noticed: there's a whole lot of buildings with chunks taken out of them.
 :::
-
-My most mortal of enemies [@cr-img2]
-
 :::{#cr-img1 .fill-sticky-col}
 ![](images/setbacks2.jpg)
 :::
 
-:::{#cr-img2}
-![](images/setbacks.png)
+:::{focus-on="cr-img2"}
+From Brunswick to Heidelberg to South Melbourne to Richmond, this style of building permeates our streetscapes, with almost every new build taking on this architectural form.
+
+But why?
 :::
+:::{#cr-img2 .fill-sticky-col}
+![](images/montage.jpg)
+:::
+
+:::{focus-on="cr-img3"}
+Historically, we built straight upward. 
+
+And not just in Melbourne, either. Cities all around the world are built like this.
+:::
+:::{#cr-img3 .fill-sticky-col}
+![](images/old-melbourne.jpg)
+:::
+
+:::{focus-on="cr-img4"}
+From Paris…
+:::
+:::{#cr-img4 .fill-sticky-col}
+![](images/paris.jpg)
+:::
+
+:::{focus-on="cr-img5"}
+...to London...
+:::
+:::{#cr-img5 .fill-sticky-col}
+![](images/london.jpg)
+:::
+
+:::{focus-on="cr-img6"}
+...to Tokyo.
+:::
+:::{#cr-img6 .fill-sticky-col}
+![](images/tokyo.jpg)
+:::
+
+:::{focus-on="cr-img7"}
+And we didn't forget how to build straight up, either.
+
+This is Austin Maynard's ParkLife, part of Nightingale Village, built in 2022. 
+
+It's one of the most iconic, well-loved, and sustainable new builds in Melbourne. 
+
+This is in no small part because of its consistent form: shooting straight up from the earth and toward the sky, it's modern, striking, and environmentally friendly.
+
+It was also extremely difficult to get planning approval to build.
+:::
+:::{#cr-img7 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::{focus-on="cr-img8"}
+“[ParkLife was] a product of war with the planning process... we waste a lot of money, council wastes a lot of time—to end up where we started.”
+
+– Andrew Maynard, Architect
+
+:::
+:::{#cr-img8 .fill-sticky-col}
+![](images/andrew.jpg)
+:::
+
+:::{focus-on="cr-img9"}
+This architectural form is called an 'upper-level setback', and is codified within planning controls across our city. 
+
+But this is not just a harmless piece of prescriptive design regulation: upper-level setbacks are terrible for both environmental sustainability and housing affordability.
+
+They have almost no benefits, and are making our city worse.
+
+In the context of climate and housing crises, it's time we abolish unnecessary upper-level setbacks.
+
+:::
+:::{#cr-img9 .fill-sticky-col}
+![](images/setbacks-ac-1.jpeg)
+:::
+
+
+:::{focus-on="cr-img10"}
+:::{.inline-logo}
+![](images/logo-green-presents.png)
+:::
+# The case against upper-level setbacks
+
+:::
+:::{#cr-img10 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
 
 :::
