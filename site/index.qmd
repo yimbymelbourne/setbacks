@@ -1,0 +1,20 @@
+---
+title: "setbacks"
+format: closeread-html
+---
+
+This is a Quarto website using Closeread.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+:::{.cr-section}
+
+Well well well
+
+:::
+
+::: {.cr-section}
+
+What do we have here?
+
+:::
