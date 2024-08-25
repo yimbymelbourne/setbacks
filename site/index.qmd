@@ -25,23 +25,25 @@ Walking around Melbourne, you might have noticed: there's a whole lot of buildin
 :::{focus-on="cr-img2"}
 From Brunswick to Heidelberg to South Melbourne to Richmond, this style of building permeates our streetscapes, with almost every new build taking on this architectural form.
 
-But why?
+**But why?**
 :::
 :::{#cr-img2 .fill-sticky-col}
 ![](images/montage.jpg)
 :::
 
 :::{focus-on="cr-img3"}
-Historically, we built straight upward. 
+Historically, we built our buildings upward. 
 
-And not just in Melbourne, either. Cities all around the world are built like this.
+And not just in Melbourne, either. Cities all around the world are constructed like this.
 :::
-:::{#cr-img3 .fill-sticky-col}
+:::{#cr-img3 .inset-sticky-col}
 ![](images/old-melbourne.jpg)
 :::
+:::
 
+:::{.cr-section layout="overlay-center"}
 :::{focus-on="cr-img4"}
-From Paris…
+From Paris...
 :::
 :::{#cr-img4 .fill-sticky-col}
 ![](images/paris.jpg)
@@ -60,11 +62,13 @@ From Paris…
 :::{#cr-img6 .fill-sticky-col}
 ![](images/tokyo.jpg)
 :::
+:::
 
+:::{.cr-section layout="sidebar-right"}
 :::{focus-on="cr-img7"}
-And we didn't forget how to build straight up, either.
+And we didn't forget how to build straight upward, either.
 
-This is Austin Maynard's ParkLife, part of Nightingale Village, built in 2022. 
+**This is Austin Maynard's ParkLife, part of Nightingale Village, built in 2022.** 
 
 It's one of the most iconic, well-loved, and sustainable new builds in Melbourne. 
 
@@ -77,9 +81,9 @@ It was also extremely difficult to get planning approval to build.
 :::
 
 :::{focus-on="cr-img8"}
-“[ParkLife was] a product of war with the planning process... we waste a lot of money, council wastes a lot of time—to end up where we started.”
+**“[ParkLife was] a product of war with the planning process... we wasted a lot of money, council wasted a lot of time—to end up where we started.”**
 
-– Andrew Maynard, Architect
+– Andrew Maynard, Architect, at YIMBY Melbourne's [*Unbanning Beauty*](https://www.youtube.com/watch?v=yLqJwwLpeVc)
 
 :::
 :::{#cr-img8 .fill-sticky-col}
@@ -87,19 +91,23 @@ It was also extremely difficult to get planning approval to build.
 :::
 
 :::{focus-on="cr-img9"}
-This architectural form is called an 'upper-level setback', and is codified within planning controls across our city. 
+Most builds do not get as lucky as ParkLife, though. 
 
-But this is not just a harmless piece of prescriptive design regulation: upper-level setbacks are terrible for both environmental sustainability and housing affordability.
+Instead, they are subjected to an architectural form known as an 'upper-level setback', which is codified within planning controls across Melbourne. 
+
+This is not just a harmless piece of prescriptive design regulation: **upper-level setbacks are terrible for both environmental sustainability and housing affordability**.
 
 They have almost no benefits, and are making our city worse.
 
-In the context of climate and housing crises, it's time we abolish unnecessary upper-level setbacks.
+In the context of dual climate and housing crises, it's time we abolish unnecessary upper-level setbacks.
 
 :::
 :::{#cr-img9 .fill-sticky-col}
 ![](images/setbacks-ac-1.jpeg)
 :::
+:::
 
+:::{.cr-section}
 
 :::{focus-on="cr-img10"}
 :::{.inline-logo}
@@ -109,6 +117,137 @@ In the context of climate and housing crises, it's time we abolish unnecessary u
 
 :::
 :::{#cr-img10 .fill-sticky-col}
+Upper-level setbacks:
+
+1. increase embodied carbon,
+2. increase operational carbon emissions,
+3. increase construction costs, and
+4. reduce housing supply.
+:::
+
+:::{focus-on="cr-img11"}
+
+### 1. Upper-level setbacks increase embodied carbon
+
+Researchers from the University of Toronto found that [almost three quarters of the embodied carbon](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jiec.13461) in a given build came from reinforced concrete, slabs, and drop panels. 
+
+"**Design choices can yield large reductions in emissions**," write Rankin et al. in the Journal of Industrial Ecology. 
+
+In order to reduce embodied carbon, the researchers recommended the removal of setbacks.
+
+Concrete slab volume, they write, "is a major driver of concrete emissions and could be reduced by building without [setbacks], which increase concrete load through large transfer slabs while reducing usable space.”
+
+
+:::
+:::{#cr-img11 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::{focus-on="cr-img12"}
+
+Also in Toronto, Half Climate Design [developed alternate designs for two medium-density projects](https://drive.google.com/file/d/1abTbNfkZHWNJ9lPGDY5yR0sxNdOCMoge/view) affected by upper-level setback controls.
+
+The analysis demonstrated that **the removal of setbacks would save between 10 and 17 kg of carbon per square metre built**—even without moving to the more sustainable materials this alternative design would enable. 
+
+:::
+:::{#cr-img12 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::{focus-on="cr-img13"}
+
+Setbacks also increase a building's surface area and exposure to the elements. 
+
+This necessitates more thermal treatment and waterproofing, which is resource intensive and increases lifetime inefficiency of the building.
+
+Which leads nicely to our next point.
+
+:::
+:::{#cr-img13 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+
+:::{focus-on="cr-img14"}
+
+### 2. Upper-level setbacks increase operational carbon emissions
+
+Because setbacks require the extension of uncovered continuous floor slabs, buildings [lose thermal efficiency due to heat transfer through exposed areas](https://perkinswill.com/report-thermally-broken-balconies/) and structural concrete lacking shade from overhead balconies. 
+
+This increases heating and cooling costs for the building throughout its lifetime, and increases electricity bills for occupants. 
+
+As a fun bonus, due to the temperature of continuous floor slabs, setbacks also increase the risk of mould and condensation inside apartments. Thank you planners, very cool!
+
+:::
+:::{#cr-img14 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::
+
+:::{.cr-section}
+
+:::{focus-on="cr-img15"}
+
+### 3. Upper-level setbacks increase construction costs
+
+Buildings with a traditional “boxy” shape [are simpler—and cheaper—to build and maintain](https://www.theurbanist.org/2018/08/22/in-praise-of-dumb-boxes/), while more complex built forms are the exact opposite. 
+
+Upper-level setback controls raise the per-dwelling costs, which are then passed on in the sell prices of apartments within a given project. 
+
+This reduces project viability, and throws up yet another barrier to the increased housing supply our city needs.
+
+:::
+:::{#cr-img15 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::
+
+
+:::{.cr-section layout="sidebar-right"}
+
+:::{focus-on="cr-img14"}
+
+### 4. Upper-level setbacks reduce housing supply
+
+Moreover, setback requirements force developments to deliver less floor space—and therefore less housing.
+
+How this happens is obvious when you look at a building with setbacks—all that empty space could have been more homes where people want to live.
+
+:::
+:::{#cr-img14 .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+
+:::{focus-on="cr-counterfactual"}
+
+The Half Climate Design alternate designs found that case study projects would have delivered 20% to 70% more housing if setbacks weren’t enforced. 
+
+The additional yield would enable housing projects to deliver more bedrooms, more homes, and more housing diversity to neighbourhoods across our city. 
+
+But all this is precluded by planning controls. 
+
+Why?
+
+:::
+:::{#cr-counterfactual .fill-sticky-col}
+![](images/parklife.jpg)
+:::
+:::
+
+:::{.cr-section}
+
+:::{focus-on="cr-img15"}
+:::{.inline-logo}
+![](images/logo-green-presents.png)
+:::
+# The (shaky) case for upper-level setbacks
+
+:::
+:::{#cr-img15 .fill-sticky-col}
 ![](images/parklife.jpg)
 :::
 

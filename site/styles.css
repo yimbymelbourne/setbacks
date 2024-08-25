@@ -25,12 +25,23 @@ h1 {
 
 p,
 .cr-section .narrative-col .trigger p {
+  color: #000;
   font-family: "Lato";
   font-size: 1.2rem;
   margin-bottom: 1.2rem !important; /* between paragraphs */
 }
 
-div p:last-child {
+a {
+  color: #10461b;
+}
+
+a:hover {
+  color: #10461b;
+  opacity: 0.8;
+}
+
+div p:last-child,
+.cr-section .narrative-col .trigger .narrative p:last-child {
   margin-bottom: 0 !important;
 }
 
@@ -51,6 +62,12 @@ div p:last-child {
     border-left: none !important;
     padding-right: 0;
   }
+
+  .inset-sticky-col > p {
+    margin: 0.5rem !important;
+    max-width: 100%;
+    border: #000 2px solid;
+  }
 }
 
 #quarto-content {
@@ -58,9 +75,27 @@ div p:last-child {
   counter-reset: sidenote-counter;
 }
 
+.cr-section.column-screen {
+  border-bottom: #000 2px solid;
+}
+
 .sticky-col {
   border-left: #000 2px solid;
   /* padding-right: 20px; */
+}
+
+.cr-section.column-screen.sidebar-right .sticky-col {
+  border-right: #000 2px solid;
+  border-left: none !important;
+}
+
+.cr-section.column-screen.overlay-center .sticky-col {
+  border-top: #000 2px solid;
+  border-left: none !important;
+}
+
+.cr-section.column-screen.overlay-center .sticky-col:first-child {
+  border-top: none !important;
 }
 
 .fill-sticky-col > p > img {
@@ -72,7 +107,24 @@ div p:last-child {
   overflow: auto;
 }
 
+.inset-sticky-col > p {
+  margin: 2rem;
+  max-width: 100%;
+  border: #000 2px solid;
+}
+
+.overlay-center .fill-sticky-col > p > img {
+  min-width: 100vw !important;
+}
+
 .inline-logo {
   width: clamp(150px, 50%, 400px);
   filter: brightness(0);
+}
+
+.overlay-center .narrative {
+  background-color: #fdffee !important;
+  padding: 10px !important;
+  border: #000 2px solid;
+  border-radius: 0 !important;
 }
