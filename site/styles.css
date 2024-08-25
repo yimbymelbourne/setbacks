@@ -5,6 +5,10 @@ body,
   background-color: #fdffee;
 }
 
+main {
+  margin-bottom: 0;
+}
+
 h1,
 h2,
 h3,
@@ -20,8 +24,30 @@ p {
   font-size: 1.2rem;
 }
 
+@media screen and (max-width: 768px) {
+  .narrative {
+    background-color: #fdffee !important;
+    padding: 10px !important;
+    border: #000 2px solid;
+    border-radius: 0 !important;
+  }
+
+  p {
+    color: #000;
+    font-size: 1.1rem;
+  }
+
+  .sticky-col {
+    border-left: none !important;
+    padding-right: 0;
+  }
+
+  .inline-logo {
+    margin-bottom: -20px !important;
+  }
+}
+
 #quarto-content {
-  font-size: 20px;
   color: #111;
   counter-reset: sidenote-counter;
 }

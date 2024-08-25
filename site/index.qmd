@@ -15,7 +15,7 @@ format:
 :::{.inline-logo}
 ![](images/logo-green-presents.png)
 :::
-# Who's ruining our city's buildings?
+# Who's ruining our city's architecture?
 
 Walking around Melbourne, you might have noticed: there's a whole lot of buildings with chunks taken out of them.
 :::
