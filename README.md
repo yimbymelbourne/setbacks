@@ -14,3 +14,7 @@ Render site:
 
 Preview site:
 `quarto preview site`
+
+## Deploy
+
+Render the site and push.
