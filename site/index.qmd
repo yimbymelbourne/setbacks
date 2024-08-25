@@ -1,20 +1,33 @@
 ---
 title: "setbacks"
-format: closeread-html
+format:
+  closeread-html:
+    css: styles.css
+    remove-header-space: true
+    debug-mode: false
+    navbar: false
 ---
-
-This is a Quarto website using Closeread.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 :::{.cr-section}
 
-Well well well
+:::{focus-on="cr-img1"}
 
+:::{.inline-logo}
+![](images/logo-green-presents.png)
+:::
+# Who's ruining our city's buildings?
+
+Walking around Melbourne, you might have noticed: there's a whole lot of buildings with chunks taken out of them.
 :::
 
-::: {.cr-section}
+My most mortal of enemies [@cr-img2]
 
-What do we have here?
+:::{#cr-img1 .fill-sticky-col}
+![](images/setbacks2.jpg)
+:::
+
+:::{#cr-img2}
+![](images/setbacks.png)
+:::
 
 :::

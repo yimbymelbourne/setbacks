@@ -1,1 +1,46 @@
-/* css styles */
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+body,
+.main {
+  background-color: #fdffee;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter Tight";
+  color: #000;
+}
+
+p {
+  font-family: "Lato";
+  font-size: 1.2rem;
+}
+
+#quarto-content {
+  font-size: 20px;
+  color: #111;
+  counter-reset: sidenote-counter;
+}
+
+.sticky-col {
+  border-left: #000 2px solid;
+  /* padding-right: 20px; */
+}
+
+.fill-sticky-col > p > img {
+  min-height: 100vh;
+  max-height: 100vh;
+  width: auto;
+  object-fit: cover;
+  overflow: auto;
+}
+
+.inline-logo {
+  width: clamp(150px, 50%, 400px);
+  filter: brightness(0);
+  margin-bottom: -10px;
+}
