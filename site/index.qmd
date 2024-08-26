@@ -137,7 +137,9 @@ Also in Toronto, Half Climate Design [developed alternate designs for two medium
 
 The analysis demonstrated that **the removal of setbacks would save between 10 and 17 kg of carbon per square metre built**—even without moving to the more sustainable materials this alternative design would enable. 
 
-# half img
+:::{.inset-standard-img}
+![](images/carbon-footprint.png)
+:::
 
 In addition to all of the above, setbacks also increase a building's surface area and exposure to the elements. 
 
