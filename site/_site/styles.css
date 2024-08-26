@@ -40,6 +40,10 @@ a:hover {
   opacity: 0.8;
 }
 
+figcaption {
+  font-family: "Inter";
+}
+
 div p:last-child,
 .cr-section .narrative-col .trigger .narrative p:last-child {
   margin-bottom: 0 !important;
@@ -113,6 +117,20 @@ div p:last-child,
   border: #000 2px solid;
 }
 
+.inset-standard-img {
+  max-width: 90%;
+  margin: auto;
+  padding-bottom: 0.5rem;
+}
+
+.inset-standard-img p {
+  margin-bottom: 0 !important;
+}
+
+.inset-standard-img img {
+  border: #000 2px solid;
+}
+
 .overlay-center .fill-sticky-col > p > img {
   min-width: 100vw !important;
 }
@@ -127,4 +145,22 @@ div p:last-child,
   padding: 10px !important;
   border: #000 2px solid;
   border-radius: 0 !important;
+}
+
+/* Standard section */
+
+.standard-section {
+  grid-column-start: screen-start;
+  grid-column-end: screen-end;
+
+  padding: 2rem;
+}
+
+.standard-section > * {
+  max-width: 800px;
+  margin: auto;
+}
+
+.standard-section:last-of-type {
+  border-bottom: #000 2px solid;
 }
