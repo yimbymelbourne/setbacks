@@ -116,6 +116,14 @@ table tr:last-child td {
     max-width: 100%;
     border: #000 2px solid;
   }
+
+  .mobile-only {
+    display: block !important;
+  }
+}
+
+.mobile-only {
+  display: none;
 }
 
 #quarto-content {
