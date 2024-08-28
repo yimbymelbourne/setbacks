@@ -1,0 +1,67 @@
+<!-- Google tag (gtag.js) -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-LCPY31LY65"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-LCPY31LY65");
+</script>
+
+<!-- SEO -->
+
+<meta property="og:url" content="https://setbacks.yimby.melbourne/" />
+<meta property="og:type" content="website" />
+
+<style>
+  .sticky-div {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .sticky-div img {
+    max-width: 80%;
+    max-height: 80%;
+    object-fit: contain;
+  }
+</style>
+
+<script>
+  window.onload = function () {
+    // Create the main div
+    const stickyDiv = document.createElement("div");
+    stickyDiv.className = "sticky-div";
+
+    const link = document.createElement("a");
+    link.href = "https://yimby.melbourne";
+    link.target = "_blank";
+
+    // Create the image
+    const img = document.createElement("img");
+    img.src = "/images/logo.png";
+    img.alt = "Sticky Image";
+
+    stickyDiv.appendChild(link);
+
+    // Append the image to the div
+    link.appendChild(img);
+
+    // Append the div to the body
+    document.body.appendChild(stickyDiv);
+  };
+</script>

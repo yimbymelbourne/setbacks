@@ -2,18 +2,22 @@ project:
   type: website
 
 website:
-  title: "setbacks"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Upper-level Setbacks Delenda Est – YIMBY Melbourne"
+  favicon: "images/favicon.jpeg"
+  site-url: https://setbacks.yimby.melbourne/
+  open-graph:
+    image: https://setbacks.yimby.melbourne/images/setbacks-og.jpg
+    title: "Upper-level Setbacks Delenda Est"
+    description: "Upper-level setbacks make housing more expensive, our buildings less sustainable, and our streetscapes uglier. It's time for them to go."
+  twitter-card:
+    image: https://setbacks.yimby.melbourne/images/setbacks-og.jpg
+    title: "Upper-level Setbacks Delenda Est"
+    description: "Upper-level setbacks make housing more expensive, our buildings less sustainable, and our streetscapes uglier. It's time for them to go."
+    card-style: summary_large_image
+    site: "@yimbymelbourne"
+    creator: "@yimbymelbourne"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-

@@ -31,6 +31,16 @@ p,
   margin-bottom: 1.2rem !important; /* between paragraphs */
 }
 
+li {
+  color: #000;
+  font-family: "Lato";
+  font-size: 1.2rem;
+}
+
+li:last-child {
+  margin-bottom: 1.2rem;
+}
+
 a {
   color: #10461b;
 }
@@ -47,6 +57,40 @@ figcaption {
 div p:last-child,
 .cr-section .narrative-col .trigger .narrative p:last-child {
   margin-bottom: 0 !important;
+}
+
+table {
+  font-family: "Inter", sans-serif;
+  background-color: #fff;
+  border: 2px solid #000 !important;
+  font-size: smaller;
+  margin-bottom: 1rem;
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+table tbody {
+  display: table;
+  width: 100%;
+}
+
+table p,
+table strong,
+table td,
+table tr {
+  font-family: "Inter", sans-serif !important;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+
+table tr:last-child td {
+  border-bottom: none !important;
+}
+
+.table-intro {
+  max-width: 100%;
+  text-wrap: wrap;
 }
 
 @media screen and (max-width: 768px) {
@@ -94,12 +138,7 @@ div p:last-child,
 }
 
 .cr-section.column-screen.overlay-center .sticky-col {
-  border-top: #000 2px solid;
   border-left: none !important;
-}
-
-.cr-section.column-screen.overlay-center .sticky-col:first-child {
-  border-top: none !important;
 }
 
 .fill-sticky-col > p > img {
@@ -152,7 +191,7 @@ div p:last-child,
 .standard-section {
   grid-column-start: screen-start;
   grid-column-end: screen-end;
-
+  border-bottom: #000 2px solid;
   padding: 2rem;
 }
 
