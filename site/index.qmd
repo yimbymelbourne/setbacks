@@ -16,12 +16,18 @@ format:
 :::{.cr-section}
 
 :::{focus-on="cr-img1"}
+
 :::{.inline-logo}
 ![](images/logo-green-presents.png)
 :::
 # What's ruining our city's architecture? (And how we can fix it)
 
-Walking around Melbourne, you might have noticed: there's a whole lot of buildings with chunks taken out of them.
+**Walking around Melbourne, you might have noticed: there's a whole lot of buildings with chunks taken out of them.**
+
+```{=html}
+<hr>
+```
+*Read this research note and [sign the open letter](#cr-final) to help rescue our city's architecture from outdated planning rules.*
 :::
 :::{#cr-img1 .fill-sticky-col}
 ![](images/setbacks2.jpg)
@@ -262,7 +268,7 @@ And yet this invented term is the governing reason our system requires upper-lev
 The two concerns above—wind tunnelling and solar access—could both be nullified in large part through ground-level setbacks.
 
 :::{.inset-standard-img}
-![Most Victorian planning instruments do not allow ground-level setbacks in place of upper-level setbacks, demonstrating that avoiding 'visual bulk' is a key goal of the Victorian planning system.](images/ground-vs-upper.jpg)
+![Most Victorian planning instruments do not allow ground-level setbacks in place of upper-level setbacks, demonstrating that avoiding 'visual bulk' is a key goal of the Victorian planning system. (Note: visual bulk is not a real thing.)](images/ground-vs-upper.jpg)
 :::
 
 However, the planning system does not consider ground-level setbacks to be a substitute for upper-level setbacks. 
