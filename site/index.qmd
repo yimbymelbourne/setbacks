@@ -231,7 +231,7 @@ Upper-level setbacks:
 
 Again, we explore each of these points briefly below.
 
-### They reduce wind tunnelling (on buildings well over 20 storeys)
+### They reduce wind tunnelling (but only on very tall buildings)
 
 Many advocates for the current setback regime argue that they play a vital role in preventing urban canyoning or wind tunnelling. 
 
