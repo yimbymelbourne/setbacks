@@ -8,7 +8,10 @@ format:
     debug-mode: false
     navbar: false
 ---
-
+:::{.invisible}
+![](images/logo.png)
+![](images/setbacks-og.jpg)
+:::
 
 :::{.cr-section}
 
@@ -78,8 +81,9 @@ This is in no small part because of its consistent form: shooting straight up fr
 
 It was also extremely difficult to get planning approval to build.
 :::
-:::{#cr-img7 .fill-sticky-col}
-![](images/parklife.jpg)
+
+:::{#cr-img7 .inset-sticky-col}
+![](images/parklife-front.jpg)
 :::
 
 :::{focus-on="cr-img8"}
@@ -121,7 +125,7 @@ Upper-level setbacks:
 
 We explore each of these issues in some detail below.
 
-### 1. Upper-level setbacks increase embodied carbon
+### 1. Upper-level setbacks increase a building's embodied carbon
 
 Researchers from the University of Toronto found that [almost three quarters of the embodied carbon](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jiec.13461) in a given build came from reinforced concrete, slabs, and drop panels. 
 
@@ -202,17 +206,17 @@ But all this is precluded by the planning system's harmful insistence on enforci
 :::{focus-on="cr-why-img1"}
 The question is—if upper-level setbacks are so obviously bad, then why are they such a prominent feature of anglospheric planning systems? 
 :::
-:::{#cr-why-img1 .fill-sticky-col}
-![](images/paris.jpg)
+:::{#cr-why-img1 .fill-sticky-col .overlay-dark}
+![](images/setback-rules-1.jpg)
 :::
 
 :::{focus-on="cr-why-img2"}
 Well, beyond standard conservative planner arguments of "this is how we've done it for decades", there *are* some arguments for upper-level setbacks.
 
-They're just not very good.
+**They're just not very good.**
 :::
 :::{#cr-why-img2 .fill-sticky-col}
-![](images/london.jpg)
+![](images/setback-rules-2.jpg)
 :::
 :::
 
@@ -227,38 +231,44 @@ Upper-level setbacks:
 
 Again, we explore each of these points briefly below.
 
-### Upper-level setbacks reduce wind tunnelling (on buildings well over 20 storeys)
-Many advocates for the current setback regime argue that they play a vital role in preventing urban canyoning or wind tunnelling.
+### They reduce wind tunnelling (on buildings well over 20 storeys)
 
-The thing is—most evidence around wind tunnelling focuses on buildings above 20 storeys tall. There is little evidence that wind tunnelling is a major issue at low heights like those within Victorian planning controls. 
+Many advocates for the current setback regime argue that they play a vital role in preventing urban canyoning or wind tunnelling. 
 
-Where wind tunnelling is a concern, it can be adequately resolved without upper-level setbacks, through measures such as urban tree planting and the separation of buildings at the ground level.
+The thing is—[most evidence](http://doi.org/10.1016/j.buildenv.2011.08.014) around wind tunnelling [focuses on buildings above 20 storeys tall](http://doi.org/10.1016/j.buildenv.2017.08.012). There is little evidence that wind tunnelling is a major issue at low heights like those within Victorian planning controls. 
 
-Meanwhile, our city's setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height.  
+Where wind tunnelling is a concern, it can be adequately resolved without upper-level setbacks through measures such as urban tree planting and the [slight separation of buildings at the ground level](http://doi.org/10.1177/1097196304044396).
+
+Meanwhile, our city's setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height, and 'break up the form' form of our cities such that land use is inefficient, leading to more scarce housing, of a lower quality.
 
 ### Upper-level setbacks increase solar access (at the cost of shade and safety)
-Another notable argument in favour of upper-level setbacks is to do with overshadowing and sunlight. Indeed, current controls aim to maximise the amount of sunlight that hits our streets.
 
-This aim, however, is falling under greater scrutiny in a warming world, where urban heat is considered a great threat to public health. 
+Another notable argument in favour of upper-level setbacks is focused on overshadowing and sunlight. Indeed, current controls aim to maximise the amount of sunlight that hits our streets.
+
+This aim, however, is falling under [greater scrutiny](https://www.theglobeandmail.com/canada/article-architecture-apartments-shade/?rel=premium) in a warming world, where urban heat is considered a great threat to public health. 
 
 In a city like Melbourne, infamous for its cloudy weather, should overshadowing be our main concern, given the high cost of setbacks, and the fact that for a majority of the year the sunlight is diffuse anyway? 
 
-Indeed, recessing all our buildings comes at a great cost, including forgoing the benefits of shade for pedestrians, all the while disconnecting residents from their broader streetscape and neighbourhood, cutting off their connection from others and completely nullifying the safety benefits of passive surveillance. 
+Indeed, recessing all our buildings comes at a great cost, including forgoing [the benefits of shade](https://doi.org/10.1016/j.buildenv.2017.01.005) for pedestrians, all the while disconnecting residents from their broader streetscape and neighbourhood, cutting off their connection from others and completely nullifying the [safety benefits](https://www.sciencedirect.com/science/article/abs/pii/S009411901730044X) of [passive surveillance](https://theconversation.com/designed-features-can-make-cities-safer-but-getting-it-wrong-can-be-plain-frightening-100239). 
 
 ### Upper-level setbacks reduce 'visual bulk' (this is not a real thing) 
-Let us be completely clear: visual bulk is not a real thing. It is a term invented by the planning system, and has no evidentiary basis to back it up.
 
-And yet it is the governing reason our system requires upper-level setbacks.
+Let us be completely clear: visual bulk is not a real thing. It is a term entirely invented by anglospheric planning systems, and no material evidence exists that 'visual bulk' is actually a negative in urban environments.
 
-The two concerns above—wind tunnelling and solar access—could both be confronted in large part through ground-level setbacks.
+And yet this invented term is the governing reason our system requires upper-level setbacks.
 
-> IMG
+The two concerns above—wind tunnelling and solar access—could both be nullified in large part through ground-level setbacks.
+
+:::{.inset-standard-img}
+![Most Victorian planning instruments do not allow ground-level setbacks in place of upper-level setbacks, demonstrating that avoiding 'visual bulk' is a key goal of the Victorian planning system.](images/ground-vs-upper.jpg)
+:::
 
 However, the planning system does not consider ground-level setbacks to be a substitute for upper-level setbacks. 
 
-If you set your building back at the ground level, you cannot just build straight upward. You then have to also implement an upper-level setback. 
+If you set your building back at the ground level, you cannot just build straight upward. You then have to _also_ implement an upper-level setback. 
 
-Why? Because of "visual bulk" which, again, we have to stress, is not a real thing.  
+Why? Because of "visual bulk" which, again, we have to stress, _is not a real thing_.  
+
 
 :::
 
@@ -272,9 +282,23 @@ The State Government has just released draft plans for ten Activity Centres acro
 
 There is no justification for maintaining this outdated and debunked design control. It makes housing more expensive, our buildings less sustainable, and our streetscapes uglier. 
 
+View and sign our open letter below.
+
 **With your help, we can put this to an end.**
 
-{embed: sign our petition to end upper-level setbacks}
+:::
+:::{#cr-final .inset-sticky-col}
+![](images/more-this-less-this.jpg)
 :::
 
 :::
+
+```{=html}
+<a class='button' href="https://docs.google.com/document/d/1tA8u_lEwKZJIhx9AyWpM475EifcsRw3WI2dUfpqnt3U" target="_blank">
+  View the open letter
+</a>
+<div class="petition">
+  <h2>Sign the open letter</h2>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqwilY1a-YcZwuv6YpmMzYFTolFcTTv8m3O8scUKjsh6At9g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+```

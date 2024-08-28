@@ -89,13 +89,11 @@ ul.task-list li input[type="checkbox"] {
 <style>
   .sticky-div {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 100px;
-    height: 100px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    bottom: 10px;
+    right: 10px;
+    width: clamp(50px, 150px, 25%);
+    height: auto;
+    background-color: none;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -103,9 +101,10 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .sticky-div img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 100%;
+    max-height: 100%;
     object-fit: contain;
+    mix-blend-mode: difference;
   }
 </style>
 
@@ -181,6 +180,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="invisible">
+<p><img src="images/logo.png" class="img-fluid"> <img src="images/setbacks-og.jpg" class="img-fluid"></p>
+</div>
 <div class="cr-section column-screen sidebar-left">
 <div class="narrative-col">
 <div class="trigger new-trigger" data-focus-on="cr-img1">
@@ -282,8 +284,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="sticky-col">
 <div class="sticky-col-stack">
-<div id="cr-img7" class="fill-sticky-col sticky">
-<p><img src="images/parklife.jpg" class="img-fluid"></p>
+<div id="cr-img7" class="inset-sticky-col sticky">
+<p><img src="images/parklife-front.jpg" class="img-fluid"></p>
 </div>
 <div id="cr-img8" class="fill-sticky-col sticky">
 <p><img src="images/andrew.jpg" class="img-fluid"></p>
@@ -304,8 +306,8 @@ ul.task-list li input[type="checkbox"] {
 <li>reduce housing supply.</li>
 </ol>
 <p>We explore each of these issues in some detail below.</p>
-<section id="upper-level-setbacks-increase-embodied-carbon" class="level3">
-<h3 class="anchored" data-anchor-id="upper-level-setbacks-increase-embodied-carbon">1. Upper-level setbacks increase embodied carbon</h3>
+<section id="upper-level-setbacks-increase-a-buildings-embodied-carbon" class="level3">
+<h3 class="anchored" data-anchor-id="upper-level-setbacks-increase-a-buildings-embodied-carbon">1. Upper-level setbacks increase a building’s embodied carbon</h3>
 <p>Researchers from the University of Toronto found that <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/jiec.13461">almost three quarters of the embodied carbon</a> in a given build came from reinforced concrete, slabs, and drop panels.</p>
 <div class="inset-standard-img">
 <p><img src="images/emissions.png" class="img-fluid"></p>
@@ -393,17 +395,17 @@ ul.task-list li input[type="checkbox"] {
 <div class="trigger new-trigger" data-focus-on="cr-why-img2">
 <div class="narrative">
 <p>Well, beyond standard conservative planner arguments of “this is how we’ve done it for decades”, there <em>are</em> some arguments for upper-level setbacks.</p>
-<p>They’re just not very good.</p>
+<p><strong>They’re just not very good.</strong></p>
 </div>
 </div>
 </div>
 <div class="sticky-col">
 <div class="sticky-col-stack">
-<div id="cr-why-img1" class="fill-sticky-col sticky">
-<p><img src="images/paris.jpg" class="img-fluid"></p>
+<div id="cr-why-img1" class="fill-sticky-col overlay-dark sticky">
+<p><img src="images/setback-rules-1.jpg" class="img-fluid"></p>
 </div>
 <div id="cr-why-img2" class="fill-sticky-col sticky">
-<p><img src="images/london.jpg" class="img-fluid"></p>
+<p><img src="images/setback-rules-2.jpg" class="img-fluid"></p>
 </div>
 </div>
 </div>
@@ -417,31 +419,36 @@ ul.task-list li input[type="checkbox"] {
 <li>Reduce ‘visual bulk’ (this is not a real thing)</li>
 </ol>
 <p>Again, we explore each of these points briefly below.</p>
-<section id="upper-level-setbacks-reduce-wind-tunnelling-on-buildings-well-over-20-storeys" class="level3">
-<h3 class="anchored" data-anchor-id="upper-level-setbacks-reduce-wind-tunnelling-on-buildings-well-over-20-storeys">Upper-level setbacks reduce wind tunnelling (on buildings well over 20 storeys)</h3>
+<section id="they-reduce-wind-tunnelling-on-buildings-well-over-20-storeys" class="level3">
+<h3 class="anchored" data-anchor-id="they-reduce-wind-tunnelling-on-buildings-well-over-20-storeys">They reduce wind tunnelling (on buildings well over 20 storeys)</h3>
 <p>Many advocates for the current setback regime argue that they play a vital role in preventing urban canyoning or wind tunnelling.</p>
-<p>The thing is—most evidence around wind tunnelling focuses on buildings above 20 storeys tall. There is little evidence that wind tunnelling is a major issue at low heights like those within Victorian planning controls.</p>
-<p>Where wind tunnelling is a concern, it can be adequately resolved without upper-level setbacks, through measures such as urban tree planting and the separation of buildings at the ground level.</p>
-<p>Meanwhile, our city’s setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height.</p>
+<p>The thing is—<a href="http://doi.org/10.1016/j.buildenv.2011.08.014">most evidence</a> around wind tunnelling <a href="http://doi.org/10.1016/j.buildenv.2017.08.012">focuses on buildings above 20 storeys tall</a>. There is little evidence that wind tunnelling is a major issue at low heights like those within Victorian planning controls.</p>
+<p>Where wind tunnelling is a concern, it can be adequately resolved without upper-level setbacks through measures such as urban tree planting and the <a href="http://doi.org/10.1177/1097196304044396">slight separation of buildings at the ground level</a>.</p>
+<p>Meanwhile, our city’s setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height, and ‘break up the form’ form of our cities such that land use is inefficient, leading to more scarce housing, of a lower quality.</p>
 </section>
 <section id="upper-level-setbacks-increase-solar-access-at-the-cost-of-shade-and-safety" class="level3">
 <h3 class="anchored" data-anchor-id="upper-level-setbacks-increase-solar-access-at-the-cost-of-shade-and-safety">Upper-level setbacks increase solar access (at the cost of shade and safety)</h3>
-<p>Another notable argument in favour of upper-level setbacks is to do with overshadowing and sunlight. Indeed, current controls aim to maximise the amount of sunlight that hits our streets.</p>
-<p>This aim, however, is falling under greater scrutiny in a warming world, where urban heat is considered a great threat to public health.</p>
+<p>Another notable argument in favour of upper-level setbacks is focused on overshadowing and sunlight. Indeed, current controls aim to maximise the amount of sunlight that hits our streets.</p>
+<p>This aim, however, is falling under <a href="https://www.theglobeandmail.com/canada/article-architecture-apartments-shade/?rel=premium">greater scrutiny</a> in a warming world, where urban heat is considered a great threat to public health.</p>
 <p>In a city like Melbourne, infamous for its cloudy weather, should overshadowing be our main concern, given the high cost of setbacks, and the fact that for a majority of the year the sunlight is diffuse anyway?</p>
-<p>Indeed, recessing all our buildings comes at a great cost, including forgoing the benefits of shade for pedestrians, all the while disconnecting residents from their broader streetscape and neighbourhood, cutting off their connection from others and completely nullifying the safety benefits of passive surveillance.</p>
+<p>Indeed, recessing all our buildings comes at a great cost, including forgoing <a href="https://doi.org/10.1016/j.buildenv.2017.01.005">the benefits of shade</a> for pedestrians, all the while disconnecting residents from their broader streetscape and neighbourhood, cutting off their connection from others and completely nullifying the <a href="https://www.sciencedirect.com/science/article/abs/pii/S009411901730044X">safety benefits</a> of <a href="https://theconversation.com/designed-features-can-make-cities-safer-but-getting-it-wrong-can-be-plain-frightening-100239">passive surveillance</a>.</p>
 </section>
 <section id="upper-level-setbacks-reduce-visual-bulk-this-is-not-a-real-thing" class="level3">
 <h3 class="anchored" data-anchor-id="upper-level-setbacks-reduce-visual-bulk-this-is-not-a-real-thing">Upper-level setbacks reduce ‘visual bulk’ (this is not a real thing)</h3>
-<p>Let us be completely clear: visual bulk is not a real thing. It is a term invented by the planning system, and has no evidentiary basis to back it up.</p>
-<p>And yet it is the governing reason our system requires upper-level setbacks.</p>
-<p>The two concerns above—wind tunnelling and solar access—could both be confronted in large part through ground-level setbacks.</p>
-<blockquote class="blockquote">
-<p>IMG</p>
-</blockquote>
+<p>Let us be completely clear: visual bulk is not a real thing. It is a term entirely invented by anglospheric planning systems, and no material evidence exists that ‘visual bulk’ is actually a negative in urban environments.</p>
+<p>And yet this invented term is the governing reason our system requires upper-level setbacks.</p>
+<p>The two concerns above—wind tunnelling and solar access—could both be nullified in large part through ground-level setbacks.</p>
+<div class="inset-standard-img">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ground-vs-upper.jpg" class="img-fluid figure-img"></p>
+<figcaption>Most Victorian planning instruments do not allow ground-level setbacks in place of upper-level setbacks, demonstrating that avoiding ‘visual bulk’ is a key goal of the Victorian planning system.</figcaption>
+</figure>
+</div>
+</div>
 <p>However, the planning system does not consider ground-level setbacks to be a substitute for upper-level setbacks.</p>
-<p>If you set your building back at the ground level, you cannot just build straight upward. You then have to also implement an upper-level setback.</p>
-<p>Why? Because of “visual bulk” which, again, we have to stress, is not a real thing.</p>
+<p>If you set your building back at the ground level, you cannot just build straight upward. You then have to <em>also</em> implement an upper-level setback.</p>
+<p>Why? Because of “visual bulk” which, again, we have to stress, <em>is not a real thing</em>.</p>
 </section>
 </section>
 <div class="cr-section column-screen sidebar-left">
@@ -452,16 +459,25 @@ ul.task-list li input[type="checkbox"] {
 <p>The State Government has just released draft plans for ten Activity Centres across Melbourne. All of these Centres have upper-level setbacks codified within their plans, indicating that these terrible, destructive controls are currently slated to be a feature of the new Plan for Victoria.</p>
 <p><strong>This is unacceptable.</strong></p>
 <p>There is no justification for maintaining this outdated and debunked design control. It makes housing more expensive, our buildings less sustainable, and our streetscapes uglier.</p>
+<p>View and sign our open letter below.</p>
 <p><strong>With your help, we can put this to an end.</strong></p>
-<p>{embed: sign our petition to end upper-level setbacks}</p>
 </section>
 </div>
 </div>
 <div class="sticky-col">
 <div class="sticky-col-stack">
-
+<div id="cr-final" class="inset-sticky-col sticky">
+<p><img src="images/more-this-less-this.jpg" class="img-fluid"></p>
 </div>
 </div>
+</div>
+</div>
+<a class="button" href="https://docs.google.com/document/d/1tA8u_lEwKZJIhx9AyWpM475EifcsRw3WI2dUfpqnt3U" target="_blank">
+  View the open letter
+</a>
+<div class="petition">
+  <h2 class="anchored">Sign the open letter</h2>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqwilY1a-YcZwuv6YpmMzYFTolFcTTv8m3O8scUKjsh6At9g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 

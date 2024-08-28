@@ -156,10 +156,18 @@ table tr:last-child td {
   border: #000 2px solid;
 }
 
+.inset-sticky-col > p > img {
+  max-height: 90vh;
+}
+
 .inset-standard-img {
   max-width: 90%;
   margin: auto;
-  padding-bottom: 0.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.quarto-figure.quarto-figure-center {
+  margin-bottom: 0;
 }
 
 .inset-standard-img p {
@@ -171,7 +179,10 @@ table tr:last-child td {
 }
 
 .overlay-center .fill-sticky-col > p > img {
-  min-width: 100vw !important;
+  width: 100%;
+  max-width: 100vw;
+  height: auto;
+  object-fit: cover;
 }
 
 .inline-logo {
@@ -202,4 +213,44 @@ table tr:last-child td {
 
 .standard-section:last-of-type {
   border-bottom: #000 2px solid;
+}
+
+.invisible {
+  display: none;
+}
+
+.petition {
+  height: 90vh;
+  border: #000 2px solid;
+  background-color: #fff;
+  padding: 0rem 2rem;
+  overflow-y: hidden;
+}
+
+.petition iframe {
+  height: 100%;
+  width: 100%;
+  border: none;
+  padding-bottom: 20px;
+}
+
+.button {
+  font-family: "Inter";
+  font-weight: 600;
+  background-color: none;
+  color: #10461b;
+  text-decoration: none;
+  margin: auto;
+  display: block;
+  padding: 10px 20px;
+  border: #10461b 2px solid;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin: 20px auto;
+}
+
+.button:hover {
+  background-color: #10461b;
+  color: #fff;
+  opacity: 1;
 }
