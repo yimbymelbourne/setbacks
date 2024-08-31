@@ -34,7 +34,7 @@ format:
 :::
 
 :::{focus-on="cr-img2"}
-From Brunswick to Heidelberg to South Melbourne to Richmond, this buildings with bits missing permeate our streetscapes, with almost every new dense build taking on this architectural form.
+From Brunswick to Heidelberg to South Melbourne to Richmond, buildings with bits missing permeate our streetscapes, with almost every new dense build taking on this architectural form.
 
 **But why?**
 :::
