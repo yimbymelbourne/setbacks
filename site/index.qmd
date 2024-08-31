@@ -199,8 +199,8 @@ The [Half Climate Design alternate designs]((https://drive.google.com/file/d/1ab
 | | | |
 |-- |-- |-- |
 | | **With setbacks** | **No setbacks** |
-| 1100 Kingston Road                 | 146 units | 254 units |
 | 2803 Dundas Street West            | 92 units | 113 units |
+| 1100 Kingston Road                 | 146 units | 254 units |
 :::
 
 Complying with upper-level setbacks forces architects to deliver highly-compromised and complex apartment layouts. This means fewer homes—and fewer family homes—within our apartment builds.
