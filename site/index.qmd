@@ -34,7 +34,7 @@ format:
 :::
 
 :::{focus-on="cr-img2"}
-From Brunswick to Heidelberg to South Melbourne to Richmond, this style of building permeates our streetscapes, with almost every new build taking on this architectural form.
+From Brunswick to Heidelberg to South Melbourne to Richmond, this buildings with bits missing permeate our streetscapes, with almost every new dense build taking on this architectural form.
 
 **But why?**
 :::
@@ -206,8 +206,6 @@ The [Half Climate Design alternate designs]((https://drive.google.com/file/d/1ab
 Complying with upper-level setbacks forces architects to deliver highly-compromised and complex apartment layouts. This means fewer homes—and fewer family homes—within our apartment builds.
 
 Removing upper-level setback requirements would enable housing projects to deliver more bedrooms, more family apartments, and more housing diversity to neighbourhoods across our city. 
-
-But any of these good outcomes are precluded by the planning system's harmful insistence on enforcing upper-level setbacks at all costs. 
 :::
 
 :::{.cr-section layout="overlay-center"}
@@ -239,7 +237,7 @@ Upper-level setbacks:
 
 Again, we explore each of these points briefly below.
 
-### They reduce wind tunnelling (but only on very tall buildings)
+### 1. Upper-level setbacks reduce wind tunnelling (but only on very tall buildings)
 
 Many advocates for the current setback regime argue that they play a vital role in preventing urban canyoning or wind tunnelling. 
 
@@ -247,9 +245,9 @@ The thing is—[most evidence](http://doi.org/10.1016/j.buildenv.2011.08.014) ar
 
 Where wind tunnelling is a concern, it can be adequately resolved without upper-level setbacks through measures such as urban tree planting and the [slight separation of buildings at the ground level](http://doi.org/10.1177/1097196304044396).
 
-Meanwhile, our city's setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height, and 'break up the form' form of our cities such that land use is inefficient, leading to more scarce housing, of a lower quality.
+Meanwhile, our city's setback requirements sometimes start as low as 2 storeys, and apply to buildings well below 20 storeys total height, and 'break up the form' of our cities such that land use is inefficient, leading to more scarce housing, of a lower quality.
 
-### Upper-level setbacks increase solar access (at the cost of shade and safety)
+### 2. Upper-level setbacks increase solar access (at the cost of shade and safety)
 
 Another notable argument in favour of upper-level setbacks is focused on overshadowing and sunlight. Indeed, current controls aim to maximise the amount of sunlight that hits our streets.
 
@@ -259,7 +257,7 @@ In a city like Melbourne, infamous for its cloudy weather, should overshadowing 
 
 Indeed, recessing all our buildings comes at a great cost, including forgoing [the benefits of shade](https://doi.org/10.1016/j.buildenv.2017.01.005) for pedestrians, all the while disconnecting residents from their broader streetscape and neighbourhood, cutting off their connection from others and completely nullifying the [safety benefits](https://www.sciencedirect.com/science/article/abs/pii/S009411901730044X) of [passive surveillance](https://theconversation.com/designed-features-can-make-cities-safer-but-getting-it-wrong-can-be-plain-frightening-100239). 
 
-### Upper-level setbacks reduce 'visual bulk' (this is not a real thing) 
+### 3. Upper-level setbacks reduce 'visual bulk' (this is not a real thing) 
 
 Let us be completely clear: visual bulk is not a real thing. It is a term entirely invented by anglospheric planning systems, and no material evidence exists that 'visual bulk' is actually a negative in urban environments.
 
